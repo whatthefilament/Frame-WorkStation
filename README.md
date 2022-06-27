@@ -15,6 +15,9 @@ I've uploaded the step files for the model as well so you can modify the frame t
 
 I look forward to everyone's feedback. 
 
-![Tablet](https://github.com/whatthefilament/Framework-Tablet/blob/main/Pictures/Tablet.png)
-![Tablet-Expanded](https://github.com/whatthefilament/Framework-Tablet/blob/main/Pictures/Tablet%203.png)
-![Tablet-Back](https://github.com/whatthefilament/Framework-Tablet/blob/main/Pictures/Tablet%202.png)
+![Frame WorkStation](https://github.com/whatthefilament/Frame-WorkStation/blob/main/Images/IMG_1916.jpeg)
+![Frame WorkStation 2](https://github.com/whatthefilament/Frame-WorkStation/blob/main/Images/IMG_1917.jpeg)
+![Render 1](https://github.com/whatthefilament/Frame-WorkStation/blob/main/Images/eGPU%20Power%20Tower%201.png)
+![Render 2](https://github.com/whatthefilament/Frame-WorkStation/blob/main/Images/eGPU%20Power%20Tower%203.png)
+![Render 3](https://github.com/whatthefilament/Frame-WorkStation/blob/main/Images/eGPU%20Power%20Tower%20Copy.png)
+
